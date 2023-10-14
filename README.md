@@ -4,9 +4,7 @@ This is an application that allows the user to draw anything! There are a variet
 
 This was created for entertainment purposes and to further my knowledge of python and mobile app development 
 
-{Provide a link to your YouTube . 4-5 minute demo,  app running, walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=giMd4CyshQg)
 
 # Development Environment
 
